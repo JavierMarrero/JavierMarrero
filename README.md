@@ -54,11 +54,6 @@ music, and I always appreciate a good talk. I also compose academic music and pu
 </p>
 </div>
 
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JavierMarrero&theme=react-dark&hide_border=true" />
-    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
-  </a>
-
 ## Github Metrics
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavierMarrero&theme=github_dark" />
