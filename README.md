@@ -69,6 +69,9 @@ music, and I always appreciate a good talk. I also compose academic music and pu
     <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
 </div>
 
+# Friends who loved you, and will remember you
+- C. Robaina:evergreen_tree:(@cdrobaina01)
+
 <!---
 JavierMarrero/JavierMarrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
